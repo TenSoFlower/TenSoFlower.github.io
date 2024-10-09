@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as o,b as e,d as r}from"./app-d0110afb.js";const c={},s=e("h1",{id:"地理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#地理","aria-hidden":"true"},"#"),r(" 地理")],-1),n=[s];function _(d,h){return a(),o("div",null,n)}const f=t(c,[["render",_],["__file","Geography.html.vue"]]);export{f as default};
